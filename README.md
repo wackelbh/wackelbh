@@ -68,15 +68,25 @@ Here are some ideas to get you started:
 </p>
 
 
-
-
 - 📫 How to reach me: ✉️ [Email](mailto:wackelbh@qq.com) OR ![Wechat](https://img.shields.io/badge/huluzzzzzzz-5fcd72.svg?logo=wechat&logoColor=white)
 - 💬 Ask me about anything, I'm happy to help;
 
+---
+
+<!-- waka readme - https://github.com/athul/waka-readme -->
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```txt
+From: 13 June 2025 - To: 20 June 2025
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 ---
 
-<br/>
 
 ## 🔥 My projects:
 
@@ -86,23 +96,22 @@ Here are some ideas to get you started:
 - [My Blog](https://wacke.me) - 我的个人博客
 
 
-### PHP
+### Drupal
+
+### Wordpress
 
 <!-- - [wise-locksmith](https://github.com/wackelbh/wise-locksmith) - 不局限于框架的互斥锁库，用于在高并发场景下提供 PHP 代码的互斥执行。 -->
 
-<details>
-<summary>其他 </summary>
+<!-- <details>
+<summary>其他 </summary> -->
 
 <!-- - [ubiquitous-nodejs](https://github.com/wackelbh/ubiquitous-nodejs) - 学习 node.js 时，封装的一个简易 web 脚手架 -->
 
-</details>
+<!-- </details> -->
 
 
 ---
 
-<!-- details start -->
-<details>
-<summary>More </summary>
 
 ## 📈 My GitHub Stats
 
@@ -110,14 +119,15 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=wackelbh&theme=shades-of-purple&show_icons=true&count_private=true" alt="Wacke's GitHub Stats">
-    <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wackelbh&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Wacke's Top Langs">
+    <!-- Top Tech Stacks - https://github.com/anuraghazra/github-readme-stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wackelbh&layout=compact&theme=tokyonight&hide=wordpress,drupal,react,nextjs" alt="Wacke's Top Tech Stacks">
 </p>
+
 
 ## 👨‍💻 My GitHub activities of last 31 days.
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![wackelbh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wackelbh&theme=react-dark&area=true&custom_title=Wacke%20Pu's%20Contribution%20Graph)
+![Wacke's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wackelbh&theme=react-dark&area=true&custom_title=Wacke's%20Contribution%20Graph)
 
 ## 📘 My own favorite open source projects
 
@@ -125,10 +135,6 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/wackelbh/wise-locksmith.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wackelbh&repo=wise-locksmith&show_owner=true&theme=nightowl" />
 </a> -->
-
-
-</details>
-<!-- details end-->
 
 ---
 
