@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Gender-%F0%9F%A4%B5 gentleman-critical">
+    <img src="https://img.shields.io/badge/Gender-%F0%9F%A4%B5 Gentleman-critical">
     <img src="https://img.shields.io/static/v1?label=Wechat&message=huluzzzzzzz&color=7BB32E&logo=wechat">
     <a href="https://wacke.me" target="_blank"><img src="https://img.shields.io/badge/Blog-wacke.me-orange"></a>
 </p>
@@ -50,21 +50,23 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Awackelbh+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Drupal" src="https://img.shields.io/badge/Drupal-%2345b8d8.svg?logo=drupal&logoColor=white"></a>
     <a href="#"><img alt="wordpress" src="https://img.shields.io/badge/WordPress%20-%233776AB.svg?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/ReactJS%20-%23F7DF1E.svg?logo=react&logoColor=black"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" /></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23554674.svg?logo=bootstrap"></a>
+    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%23F05033.svg?logo=jquery"></a>
+    <!-- <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/ReactJS%20-%23F7DF1E.svg?logo=react&logoColor=black"></a>
     <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js%20-%232b3847.svg?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="HonoJS" src="https://img.shields.io/badge/HonoJS%20-%23F7DF1E.svg?logo=hono&logoColor=black"></a>
-    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS%20-%23F05033.svg?logo=nestJS&logoColor=black"></a>
+    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS%20-%23F05033.svg?logo=nestJS&logoColor=black"></a> -->
 </p>
 
 <p>
-    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" /></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23554674.svg?logo=bootstrap"></a>
     <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI%20-black?logo=openai&style=flat-square">
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></a>
-    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
-    <a href="#"><img alt="OpenResty" src="https://img.shields.io/badge/OpenResty-00B66C?logo=openresty&logoColor=white" /></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" /></a>
+    <!-- <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
+    <a href="#"><img alt="OpenResty" src="https://img.shields.io/badge/OpenResty-00B66C?logo=openresty&logoColor=white" /></a> -->
 </p>
 
 
@@ -119,8 +121,8 @@ No activity tracked
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=wackelbh&theme=shades-of-purple&show_icons=true&count_private=true" alt="Wacke's GitHub Stats">
-    <!-- Top Tech Stacks - https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wackelbh&layout=compact&theme=tokyonight&hide=wordpress,drupal,react,nextjs" alt="Wacke's Top Tech Stacks">
+    <!-- Top Tech Stack - https://github.com/anuraghazra/github-readme-stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wackelbh&layout=compact&theme=tokyonight&hide=wordpress,drupal,react,nextjs" alt="Wacke's Top Tech Stack">
 </p>
 
 
