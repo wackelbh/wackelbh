@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Senior+WordPress+Drupal+Developer;Full+Stack+web+developer;Self-taught+Code+Designer;Always+learning+new+things">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Drupal%20and%20WordPress%20Developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Self-taught+Code+Designer;&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
